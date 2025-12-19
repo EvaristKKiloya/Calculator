@@ -1,0 +1,14 @@
+E:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.AssemblyInfoInputs.cache
+E:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.AssemblyInfo.cs
+E:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.csproj.CoreCompileInputs.cache
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\bin\Debug\net7.0-windows\CalculatorForm.exe
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\bin\Debug\net7.0-windows\CalculatorForm.deps.json
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\bin\Debug\net7.0-windows\CalculatorForm.runtimeconfig.json
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\bin\Debug\net7.0-windows\CalculatorForm.dll
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\bin\Debug\net7.0-windows\CalculatorForm.pdb
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.dll
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\refint\CalculatorForm.dll
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.pdb
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\CalculatorForm.genruntimeconfig.cache
+e:\University\2nd\Semister 1\Dotnet Lab\Expremient1\CalculatorForm\obj\Debug\net7.0-windows\ref\CalculatorForm.dll
